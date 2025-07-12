@@ -6,10 +6,10 @@
 
 ## 🧠 About Me
 
-- 🔭 I’m currently working on: **Virtual Assistant – Interview AI**
+- 🔭 I’m currently working on: **Virtual Assistant -**
 - 🌱 I’m learning: **AWS Cloud**, **AI Integration**, and **Microservices**
 - 💡 I love building: **Full-stack apps**, **APIs**, **AI tools**, and **3D web experiences**
-- 🧰 Stack: Django • React • MySQL • Tailwind • REST API • Node.js • Express • HTML/CSS
+- 🧰 Stack: Django • React • MySQL • Tailwind • REST API • Node.js • Express • HTML/CSS 
 - 🧪 Exploring: AI integrations using OpenAI, Langchain, Whisper, and Groq
 
 ---
