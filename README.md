@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Aditya Sahu! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-🚀 I'm a passionate **Full Stack Developer** who thrives on building impactful digital experiences with **Python**, **Django**, **JavaScript**, **Node.js**, and **SQL**. Whether it's creating responsive web apps or smart AI tools, I'm always experimenting, learning, and shipping.
+🚀 I'm a passionate **backend Developer** who thrives on building impactful digital experiences with **Python**, **Django**, **JavaScript**, **Node.js**, and **SQL**. Whether it's creating responsive web apps or smart AI tools, I'm always experimenting, learning, and shipping.
 
 ---
 
