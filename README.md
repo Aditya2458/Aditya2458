@@ -52,7 +52,7 @@
 
 ## 🤝 Let's Connect
 
-- 📫 Email: `adityacbsa29@example.com`
+- 📫 Email: `adityacbsa29@gmail.com`
 - 
 - 💼 [LinkedIn]https://www.linkedin.com/in/adityasahu28/
 - 
