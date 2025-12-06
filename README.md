@@ -1,107 +1,97 @@
-<h1 align="center">✨ Aditya Sahu ✨  
-Backend Developer | Python | Django |  APIs</h1>
+# 👋 Hey, I'm **Aditya Sahu**
+
+A **Backend Engineer** passionate about building scalable systems, secure authentication flows, and clean API architectures.  
+I specialize in **Python**, **Django**, **REST APIs**, **MySQL**, and modern backend practices that transform product ideas into reliable, production-ready systems.
+
+---
+
+## 🧩 **What I Do**
+
+- 🛠️ Build **robust backend systems** with clean architecture  
+- 🔐 Implement **secure authentication** (JWT, RBAC, sessions, custom auth models)  
+- 🗄️ Design & optimize **relational databases** (MySQL / PostgreSQL)  
+- ⚙️ Develop **REST APIs** for real-world applications  
+- ☁️ Explore **Cloud & DevOps** (AWS, Render, Docker)  
+- 🤖 Integrate **AI APIs** into backend workflows  
+
+---
+
+## 🧪 **Featured Projects**
+
+### 🚑 **HealthCare – WhatBytes Assignment**  
+**A healthcare workflow system** focusing on patient–doctor flow, medical records management, authentication, and admin controls.  
+**Tech:** Python, Django, DRF, MySQL  
+🔗 Repo: https://github.com/Aditya2458/HealthCare-whatbytes-Assignment  
+
+---
+
+### 🔐 **Django Auth API**  
+A fully functional **authentication REST API** supporting registration, login, logout, token system, and user profiles.  
+**Tech:** Django REST Framework, SimpleJWT, SQLite  
+🔗 Repo: https://github.com/Aditya2458/django-auth-api  
+
+---
+
+### 🏥 **Hospital Authentication System**  
+Role-based access for **Doctors** & **Patients**, dashboards, secure logins, and complete auth flow.  
+**Tech:** Django, CustomUser Model, HTML/Tailwind  
+🔗 Repo: https://github.com/Aditya2458/hospital-auth-django  
+
+---
+
+### 📈 **Binance Trading Bot**  
+Automated crypto trading bot for **Binance Futures**, executes long/short orders with configurable strategies.  
+**Tech:** Python, REST API, WebSocket  
+🔗 Repo: https://github.com/Aditya2458/binance-trading-bot  
+
+---
+
+### 🧠 **Virtual Assistant**  
+AI-powered web assistant capable of generating responses, summarizing info & interacting with APIs.  
+**Tech:** Python, Django, Tailwind, OpenAI/Groq APIs  
+🔗 Repo: https://github.com/Aditya2458/virtual-assistant  
+
+---
+
+### 🗃️ **Node.js + MySQL CRUD API**  
+A simple CRUD system built for learning DB operations & API structuring.  
+**Tech:** JavaScript, Express, MySQL  
+🔗 Repo: https://github.com/Aditya2458/NodeJS-and-MySQL-Crud-Operation  
+
+---
+
+### 🌍 **Travel Booking App**  
+A full-stack travel planning app with authentication, search, booking & dashboard features.  
+**Tech:** Python, Django, SQL  
+🔗 Repo: https://github.com/Aditya2458/Travel_Booking_App  
+
+---
+
+## 🛠️ **Tech Stack**
+
+**Languages:** Python, JavaScript  
+**Frameworks:** Django, Django REST Framework  
+**Databases:** MySQL, SQLite  
+**Tools:** Git, GitHub, VS Code, Postman  
+**Skills:** Authentication, APIs, Database Design, AI Integration  
+**Learning:** AWS Cloud, Scalable Backend Architecture
+
+---
+
+## 📊 **GitHub Insights**
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=38B2AC&size=30&center=true&vCenter=true&width=900&height=60&lines=Backend+Developer;Python+%7C+Django+%7C+Node.js+%7C+Express;Building+High+Performance+APIs;Passionate+About+AI+%26+Automation;Always+Learning+%26+Always+Shipping!" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Aditya2458&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya2458&theme=radical" />
 </p>
 
 ---
 
-## 🚀 About Me  
+## 🌐 **Connect With Me**
 
-🔥 Passionate **Backend Developer** who loves building fast, scalable & intelligent APIs.  
-⚡ I work with **Python, Django, Node.js, Express, MySQL, MongoDB, REST APIs, JWT, Swagger**  
-🔍 Interested in **Cloud, DevOps, AI automation, Microservices & System Design**  
-
----
-
-## 🛠️ Tech Arsenal  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,nodejs,express,javascript,mysql,mongodb,postgres,git,github,linux,bash,aws,vscode,postman" />
-</p>
+📧 Email: **adityacbsa29@gmail.com**  
+🔗 LinkedIn: **https://www.linkedin.com/in/adityasahu28/**  
 
 ---
 
-# 💼 Featured Projects  
-
-> ✨ **These highlight my backend engineering & API development skills**
-
----
-
-## 🔥 🟩 Node.js Express API — JWT Auth + Swagger  
-A complete authentication API with protected routes, MongoDB, JWT, and Swagger documentation.  
-**Tech:** Node.js · Express · MongoDB · JWT · Swagger  
-🔗 **Repo:** https://github.com/Aditya2458/node-express-api  
-
----
-
-## 🔷 NodeJS + MySQL CRUD API  
-A clean REST API with Create/Read/Update/Delete operations using Node.js + MySQL.  
-**Tech:** Node.js · Express · MySQL  
-🔗 **Repo:** https://github.com/Aditya2458/NodeJS-and-MySQL-Crud-Operation  
-
----
-
-## 🟦 Django Auth API  
-A production-ready Django REST Authentication System with JWT, secure login, registration & user profile.  
-**Tech:** Django · DRF · SimpleJWT  
-🔗 **Repo:** https://github.com/Aditya2458/django-auth-api  
-
----
-
-## 🟨 Binance Futures Trading Bot  
-Automated trading bot with configurable strategies, real-time price tracking & execution.  
-**Tech:** Python · Binance API · Automation  
-🔗 https://github.com/Aditya2458/binance-trading-bot  
-
----
-
-## 🟥 Travel Booking App  
-Full-stack booking system to search destinations, compare packages, and book securely.  
-**Tech:** Python · Django · HTML · CSS  
-🔗 https://github.com/Aditya2458/Travel_Booking_App  
-
----
-
-## 🟩 HealthCare Management — WhatBytes Assignment  
-A complete healthcare management demo featuring patient, doctor roles & medical data workflows.  
-**Tech:** Python · Django · APIs  
-🔗 https://github.com/Aditya2458/HealthCare-whatbytes-Assignment  
-
----
-
-## 🟪 Mini Social App  
-A clean social-style application structure (work in progress).  
-**Tech:** JavaScript  
-🔗 https://github.com/Aditya2458/mini-social  
-
----
-
-# 📊 GitHub Stats  
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aditya2458&show_icons=true&theme=radical" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Aditya2458&theme=radical" />
-</p>
-
----
-
-# ⚡ Fun Stuff  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300">
-</p>
-
-> *“I don’t just write code — I build experiences.”*  
-
----
-
-# 🤝 Connect With Me  
-
-📧 Email — **adityacbsa29@gmail.com**  
-🔗 LinkedIn — https://www.linkedin.com/in/adityasahu28/  
-
----
-
-<p align="center"><b>⭐ If you like my work, consider giving a star!</b></p>
+### ⭐ *If you like my work, consider giving a star on the repos!*
