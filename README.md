@@ -1,5 +1,5 @@
 <h1 align="center">✨ Aditya Sahu ✨  
-Backend Developer | Python | Django | Node.js | APIs</h1>
+Backend Developer | Python | Django |  APIs</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=38B2AC&size=30&center=true&vCenter=true&width=900&height=60&lines=Backend+Developer;Python+%7C+Django+%7C+Node.js+%7C+Express;Building+High+Performance+APIs;Passionate+About+AI+%26+Automation;Always+Learning+%26+Always+Shipping!" />
