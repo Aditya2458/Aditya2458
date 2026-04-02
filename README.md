@@ -25,46 +25,47 @@ I love building clean, scalable backend systems and solving real-world problems 
 | **Node.js + MySQL CRUD API** | Complete CRUD operations with REST endpoints and SQL database integration | Node.js, MySQL |
 
 ---
-
 ## 🛠️ Tech Stack
 
-### 🧠 Backend & API
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
-![REST API](https://img.shields.io/badge/-REST_API-000000?style=flat)
-
-### 🗄️ Database & Cache
-![MySQL](https://img.shields.io/badge/-MySQL-00000F?style=flat&logo=mysql)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis)
-
-### ⚙️ DevOps & Infrastructure
-![Docker](https://img.shields.io/badge/-Docker-0db7ed?style=flat&logo=docker)
-![Docker Compose](https://img.shields.io/badge/-Docker_Compose-384d54?style=flat&logo=docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326ce5?style=flat&logo=kubernetes)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions)
-
-### 🔐 Testing & Security
-![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?style=flat&logo=pytest)
-![Trivy](https://img.shields.io/badge/-Trivy-1904DA?style=flat)
-
-### 📊 Monitoring & Observability
-![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat&logo=prometheus)
-![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana)
-
-### 🧰 Tools & Workflow
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)
-
-## 📈 GitHub Stats
-
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aditya2458&show_icons=true&theme=tokyonight" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya2458&theme=tokyonight" />
+
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge"/>
+
+  <br/>
+
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+
+  <br/>
+
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker_Compose-384D54?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+
+  <br/>
+
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge"/>
+
+  <br/>
+
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+
+  <br/>
+
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
 </p>
 
----
+
+
 
 ## 🤝 Connect With Me
 
