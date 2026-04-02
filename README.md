@@ -1,17 +1,23 @@
-# 👋 Hi, I'm Aditya Sahu!  
+# 👋 Hi, I'm Aditya Sahu
 
-🚀 Backend Developer with a strong focus on **Node.js**, **Express**, **Python**, **Django**, **REST APIs**, and **secure authentication systems**.  
-I love building clean, scalable backend systems and solving real-world problems through code.
+🚀 I build backend systems that don’t break in production.
+Focused on **Python (FastAPI/Django)**, **robust APIs**, and **real-world DevOps workflows** — from writing code to shipping and monitoring it.
 
 ---
 
 ## 🧠 About Me
 
-- 💻 Passionate about backend development & secure API design  
-- 🔧 Experienced with authentication (JWT), CRUD APIs, and database-driven applications  
-- 🌱 Currently learning **Cloud Deployments**, **Microservices**, and **Clean Architecture**  
-- 🛠 Tech I love using: Node.js • Express • Django • MySQL • MongoDB • Tailwind • JavaScript  
-- 🧩 Strong interest in building practical, production-quality systems  
+* 💻 I don’t just write APIs — I design **systems with structure, security, and scale in mind**
+* 🔐 Worked on **role-based systems**, authentication flows, and real-world backend logic
+* ⚙️ Built a **Dockerized FastAPI system** with CI/CD, testing, and monitoring
+* 🧪 I care about **testing as much as development (pytest, workflow validation)**
+* 📊 I believe systems should be **observable, not guesswork (Prometheus)**
+* 🌱 Currently exploring **Kubernetes, system design, and production-grade architecture**
+* 🧩 My focus: **clean backend architecture + DevOps mindset**
+
+---
+
+💡 *“Anyone can build an API. I focus on building systems that actually run in production.”*
 
 ---
 
