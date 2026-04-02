@@ -21,7 +21,7 @@ Focused on **Python (FastAPI/Django)**, **robust APIs**, and **real-world DevOps
 
 ---
 
-## 📘 Featured Projects
+
 
 ## 📘 Featured Projects
 
