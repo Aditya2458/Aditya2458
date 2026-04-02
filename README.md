@@ -23,12 +23,12 @@ Focused on **Python (FastAPI/Django)**, **robust APIs**, and **real-world DevOps
 
 ## 📘 Featured Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| **Node.js Express API** | A complete backend API with JWT authentication, registration/login, protected routes, and Swagger docs | Node.js, Express, MongoDB |
-| **HealthCare Management System** | A WhatBytes assignment focusing on patient–doctor management and secure authentication | Python, Django |
-| **Django Auth API** | A ready-to-use authentication system with JWT tokens and profile access | Django REST Framework |
-| **Node.js + MySQL CRUD API** | Complete CRUD operations with REST endpoints and SQL database integration | Node.js, MySQL |
+## 📘 Featured Projects
+
+| Project                        | Description                                                                                                                                                                                                                                                          | Tech                                                                     |
+| ------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| **FastAPI Backend System**     | A production-ready, Dockerized backend for role-based academic management with admins, teachers, and student workflows. Includes MySQL, Redis, CI/CD pipeline (GitHub Actions), end-to-end testing (pytest), security scanning (Trivy), and monitoring (Prometheus). | FastAPI, MySQL, Redis, Docker, GitHub Actions, Pytest, Trivy, Prometheus |
+| **Trading Bot (PrimeTradeAI)** | Built a structured Python trading bot for Binance Futures Testnet supporting MARKET & LIMIT orders, CLI-based inputs, validation, exception handling, and clean logging architecture.                                                                                | Python, APIs, CLI, Logging                                               |
 
 ---
 ## 🛠️ Tech Stack
