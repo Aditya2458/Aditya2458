@@ -28,18 +28,34 @@ I love building clean, scalable backend systems and solving real-world problems 
 
 ## 🛠️ Tech Stack
 
+### 🧠 Backend & API
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
-![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat)
+![REST API](https://img.shields.io/badge/-REST_API-000000?style=flat)
+
+### 🗄️ Database & Cache
 ![MySQL](https://img.shields.io/badge/-MySQL-00000F?style=flat&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat&logo=mongodb)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis)
+
+### ⚙️ DevOps & Infrastructure
+![Docker](https://img.shields.io/badge/-Docker-0db7ed?style=flat&logo=docker)
+![Docker Compose](https://img.shields.io/badge/-Docker_Compose-384d54?style=flat&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326ce5?style=flat&logo=kubernetes)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions)
+
+### 🔐 Testing & Security
+![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?style=flat&logo=pytest)
+![Trivy](https://img.shields.io/badge/-Trivy-1904DA?style=flat)
+
+### 📊 Monitoring & Observability
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat&logo=prometheus)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana)
+
+### 🧰 Tools & Workflow
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-
----
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)
 
 ## 📈 GitHub Stats
 
