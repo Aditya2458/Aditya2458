@@ -1,23 +1,14 @@
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║   ██████╗  █████╗ ██████╗ ██╗  ██╗███████╗███╗   ██╗██████╗  ║
-║   ██╔══██╗██╔══██╗██╔══██╗██║ ██╔╝██╔════╝████╗  ██║██╔══██╗ ║
-║   ██████╔╝███████║██║  ██║█████╔╝ █████╗  ██╔██╗ ██║██║  ██║ ║
-║   ██╔══██╗██╔══██║██║  ██║██╔═██╗ ██╔══╝  ██║╚██╗██║██║  ██║ ║
-║   ██████╔╝██║  ██║██████╔╝██║  ██╗███████╗██║ ╚████║██████╔╝ ║
-║   ╚═════╝ ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝╚═════╝  ║
-║                                                               ║
-║              [ BACKEND SYSTEMS ENGINEER ]                     ║
-║         FastAPI · Django · DevOps · System Design            ║
-╚═══════════════════════════════════════════════════════════════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,100:4fc3f7&height=200&section=header&text=Aditya%20Sahu&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%C2%B7%20System%20Design%20%C2%B7%20DevOps&descAlignY=58&descColor=ccfbf1" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Building+systems+that+run+in+production.;Code+→+Docker+→+CI%2FCD+→+Monitor+→+Scale.;Not+just+APIs.+Architecture.;Security+%7C+Reliability+%7C+Observability." alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1200&color=00FF88&center=true&vCenter=true&width=600&lines=I+don%27t+write+APIs.+I+design+systems.;Code+%E2%86%92+Docker+%E2%86%92+CI%2FCD+%E2%86%92+Monitor+%E2%86%92+Scale.;Security+%7C+Reliability+%7C+Observability.;Building+things+that+survive+production." alt="typing" />
 
-[![Email](https://img.shields.io/badge/─────────────────────────────────────────────────────────────────-000000?style=flat-square)](.)
+<br/>
+
+[![Gmail](https://img.shields.io/badge/Gmail-adityacbsa29%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityacbsa29@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-adityasahu28-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityasahu28/)
+[![Profile Views](https://komarev.com/ghpvc/?username=Aditya2458&label=PROFILE+VIEWS&color=00ff88&style=for-the-badge)](.)
 
 </div>
 
@@ -29,66 +20,64 @@
 name:     Aditya Sahu
 role:     Backend Engineer
 location: India
-focus:
-  - Production-ready backend architecture
-  - Role-based access control & auth flows
+mindset:  Production-first. Observability-first. Test everything.
+
+strengths:
+  - Role-based access control & authentication flows
   - Dockerized systems with CI/CD pipelines
-  - Observability-first design (Prometheus + Grafana)
-  - Testing as a first-class citizen (pytest)
+  - Async backend design (FastAPI)
+  - Metrics & monitoring from day one (Prometheus)
+  - Testing as architecture, not afterthought
+
 currently_learning:
   - Kubernetes & container orchestration
-  - Advanced system design patterns
-  - Production-grade microservices
+  - Distributed system design patterns
+  - Production-grade microservice architecture
+
 philosophy: >
-  Anyone can build an API.
-  I build systems that survive production.
+  "Anyone can build an API.
+   I build systems that survive production."
 ```
 
 ---
 
-## `$ ls -la ./projects`
+## `$ ls ./projects --sort=impact`
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-### 🔥 FastAPI Production System
+### `01` — FastAPI Production System
 
-```
-┌─────────────────────────────────┐
-│  STACK                          │
-│  ├── FastAPI (async core)       │
-│  ├── MySQL + Redis              │
-│  ├── Docker + Docker Compose    │
-│  ├── GitHub Actions (CI/CD)     │
-│  ├── Pytest (full test suite)   │
-│  └── Prometheus (metrics)       │
-│                                 │
-│  STATUS: ✅ Production-ready    │
-└─────────────────────────────────┘
-```
+> Production-ready. Not a tutorial project.
 
-> Designed with structure, security, and scale. Not a tutorial project.
+| Layer | Technology |
+|---|---|
+| Core | FastAPI (async) |
+| Data | MySQL + Redis |
+| Containers | Docker + Compose |
+| CI/CD | GitHub Actions |
+| Testing | pytest + httpx |
+| Monitoring | Prometheus |
+
+**`● PRODUCTION READY`**
 
 </td>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-### 🤖 PrimeTradeAI — Trading Bot
+### `02` — PrimeTradeAI
 
-```
-┌─────────────────────────────────┐
-│  STACK                          │
-│  ├── Python (core engine)       │
-│  ├── Binance Futures Testnet    │
-│  ├── CLI-based interface        │
-│  ├── Structured logging         │
-│  └── Input validation layer     │
-│                                 │
-│  STATUS: ✅ Operational         │
-└─────────────────────────────────┘
-```
+> Real exchange. Real logic. Clean output.
 
-> Real exchange logic. Real validation. Clean output.
+| Layer | Technology |
+|---|---|
+| Core | Python |
+| Exchange | Binance Futures Testnet |
+| Interface | CLI-based system |
+| Logging | Structured output |
+| Validation | Input validation layer |
+
+**`● OPERATIONAL`**
 
 </td>
 </tr>
@@ -96,89 +85,77 @@ philosophy: >
 
 ---
 
-## `$ cat ./tech_stack.json`
-
-```json
-{
-  "languages": ["Python"],
-  "frameworks": {
-    "backend":  ["FastAPI", "Django"],
-    "testing":  ["pytest", "httpx"]
-  },
-  "databases": {
-    "relational": ["MySQL", "PostgreSQL"],
-    "cache":      ["Redis"]
-  },
-  "devops": {
-    "containers":   ["Docker", "Docker Compose"],
-    "orchestration": ["Kubernetes ← (learning)"],
-    "ci_cd":        ["GitHub Actions", "Jenkins"],
-    "monitoring":   ["Prometheus", "Grafana"],
-    "security":     ["Trivy (image scanning)"]
-  },
-  "environment": ["Linux", "Git", "Bash"]
-}
-```
-
----
-
-## `$ htop` — GitHub Metrics
+## `$ cat tech_stack.json | jq`
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aditya2458&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya2458&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88" />
+**Backend**
 
-<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya2458&theme=github-compact&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&hide_border=true" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+
+**Data**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**DevOps**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**Observability**
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy_Security-1904DA?style=for-the-badge&logoColor=white)
 
 </div>
 
 ---
 
-## `$ ping ./connect`
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────┐
-│                                             │
-│   OPEN TO: SDE roles · Backend · DevOps     │
-│                                             │
-│   adityacbsa29@gmail.com                    │
-│   linkedin.com/in/adityasahu28             │
-│                                             │
-└─────────────────────────────────────────────┘
-```
-
-[![Gmail](https://img.shields.io/badge/Gmail-adityacbsa29%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityacbsa29@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-adityasahu28-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityasahu28/)
-
-</div>
-
----
-
-## `$ tail -f ./log`
+## `$ git log --oneline --all`
 
 ```diff
-+ [2025] Built production-ready FastAPI system with full DevOps stack
-+ [2025] Implemented RBAC, JWT auth, and async patterns
-+ [2025] Integrated Prometheus monitoring from day one
-+ [2025] Shipped Dockerized system with GitHub Actions CI/CD
-+ [NOW]  Learning Kubernetes & distributed system design
++ [2025-Q1] FastAPI system: Dockerized, CI/CD, monitored, fully tested
++ [2025-Q2] RBAC + JWT auth flows + async middleware layer
++ [2025-Q3] PrimeTradeAI: Binance CLI bot, clean logging, validation
++ [2025-Q4] Prometheus metrics wired from day one — not retrofitted
+~ [NOW    ] Deep-diving Kubernetes + distributed system architecture
 ```
+
+---
+
+## `$ htop` — GitHub Activity
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aditya2458&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=080c10&title_color=00ff88&icon_color=4fc3f7&text_color=c9d1d9" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya2458&theme=chartreuse-dark&hide_border=true&background=080c10&ring=00ff88&fire=4fc3f7&currStreakLabel=00ff88" />
+
+<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya2458&bg_color=080c10&color=00ff88&line=4fc3f7&point=ffffff&hide_border=true&area=true" />
+
+</div>
 
 ---
 
 <div align="center">
 
 ```
-╔══════════════════════════════════════════╗
-║   "Build for production.               ║
-║    Monitor everything.                 ║
-║    Test before it fails."              ║
-╚══════════════════════════════════════════╝
+╔══════════════════════════════════════════════════╗
+║                                                  ║
+║   "Build for production.                         ║
+║    Monitor everything.                           ║
+║    Test before it fails."                        ║
+║                                                  ║
+╚══════════════════════════════════════════════════╝
 ```
 
-![Profile Views](https://komarev.com/ghpvc/?username=Aditya2458&label=PROFILE+VIEWS&color=00ff88&style=flat-square)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4fc3f7,100:00ff88&height=100&section=footer" />
 
 </div>
